@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jatin Nahata
-- 👀 I’m interested in Web Development, Data Science and Web Designing
-- 🌱 I’m currently learning Application Developement
 - 📫 Reach me @23f2001705@ds.study.iitm.ac.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I aspire to develop new things and delve into the world of startups
